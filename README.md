@@ -1,6 +1,6 @@
 Hello World 👋 My name is Maltiti Osman 
 
-======  Web Developer ======
+======  Software Developer ======
 
 I’m a computer engineering graduate and a software developer from Ghana.
 
